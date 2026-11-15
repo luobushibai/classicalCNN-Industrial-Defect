@@ -1,0 +1,9 @@
+datasets/
+logs/
+logs_*/
+*.pth
+cls_train.txt
+cls_test.txt
+__pycache__/
+*.pyc
+.DS_Store
